@@ -1,0 +1,12 @@
+{
+  "name": "mappings-collaboratory",
+  "repository": "treetopllc/mappings-collaboratory",
+  "version": "0.0.0",
+  "dependencies": {
+    "component/each": "*",
+    "ianstormtaylor/to-constant-case": "*"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}
