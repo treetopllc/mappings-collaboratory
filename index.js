@@ -122,6 +122,12 @@ exports.vertex_types = index({
     16: "Relationship"
 });
 
+exports.activity_types = index([
+    "Create",
+    "Update",
+    "Delete"
+]);
+
 exports.asset_types = index({
     0: "notype",
     1: "aif",
