@@ -42,9 +42,9 @@ exports.group_types = index([
     "Service Learning",
     "On-the-Job Training",
     "Course",
-    "Department",
-    "Unit",
-    "College"
+    "Academic Department",
+    "Office",
+    "Centers/Institutes"
 ]);
 
 exports.opportunity_types = index({
@@ -127,6 +127,34 @@ exports.activity_types = index([
     "Update",
     "Delete"
 ]);
+
+exports.asset_types = index({
+    0: "notype",
+    1: "aif",
+    2: "doc",
+    3: "docx",
+    4: "gif",
+    5: "jpg",
+    6: "mov",
+    7: "mp3",
+    8: "mpg",
+    9: "odp",
+    10: "odt",
+    11: "oga",
+    12: "ogf",
+    13: "pdf",
+    14: "png",
+    15: "pps",
+    16: "ppsx",
+    17: "ppt",
+    18: "pptx",
+    19: "txt",
+    20: "wma",
+    21: "wmv",
+    22: "xls",
+    23: "xlsx",
+    24: "rtf"
+});
 
 function index(list) {
     var by_name = {};
