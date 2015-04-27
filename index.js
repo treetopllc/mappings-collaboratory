@@ -119,7 +119,11 @@ exports.vertex_types = index({
     13: "URL",
     14: "Hours Set",
     15: "Email",
-    16: "Relationship"
+    16: "Relationship",
+    17: "Goal",
+    18: "Invite",
+    19: "Proxy",
+    20: "Program"
 });
 
 exports.activity_types = index([
@@ -154,6 +158,12 @@ exports.asset_types = index({
     22: "xls",
     23: "xlsx",
     24: "rtf"
+});
+
+exports.relationship_types = index({
+    1: "Student",
+    2: "Faculty",
+    3: "Staff"
 });
 
 function index(list) {
