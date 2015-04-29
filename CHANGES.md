@@ -1,3 +1,6 @@
+# 0.0.4 (4/28/2015)
+ * Update Project Vertex Type Name to Activity
+
 # 0.0.3 (4/27/2015)
  * Add vertex and relationship types
 
