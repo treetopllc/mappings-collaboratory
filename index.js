@@ -70,13 +70,13 @@ exports.organization_types = index({
     7: "Citizen"
 });
 
-exports.project_activities = index([
+exports.activity_types = index([
     "Teaching",
     "Research/Creative",
     "Service"
 ]);
 
-exports.project_focuses = index([
+exports.activity_focuses = index([
     "Arts and Culture",
     "Education",
     "Community and Economic Development",
@@ -107,7 +107,7 @@ exports.vertex_types = index({
     1: "Group",
     2: "Organization",
     3: "Opportunity",
-    4: "Project",
+    4: "Activity",
     5: "Event",
     6: "Customer",
     7: "User",
