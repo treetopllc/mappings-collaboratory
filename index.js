@@ -44,7 +44,8 @@ exports.group_types = index([
     "Course",
     "Academic Department",
     "Office",
-    "Centers/Institutes"
+    "Centers/Institutes",
+    "Division"
 ]);
 
 exports.opportunity_types = index({
