@@ -44,7 +44,8 @@ exports.group_types = index([
     "Course",
     "Academic Department",
     "Office",
-    "Centers/Institutes"
+    "Centers/Institutes",
+    "Division"
 ]);
 
 exports.opportunity_types = index({
@@ -123,8 +124,7 @@ exports.vertex_types = index({
     17: "Goal",
     18: "Invite",
     19: "Proxy",
-    20: "Program",
-    21: "Partnership"
+    20: "Program"
 });
 
 exports.activity_types = index([
