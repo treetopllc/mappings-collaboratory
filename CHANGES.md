@@ -1,3 +1,6 @@
+# 0.0.6 (6/18/2015)
+ * Add Division Group Type
+
 # 0.0.5 (5/13/2015)
  * Add vertex type ID for Partnership
 
