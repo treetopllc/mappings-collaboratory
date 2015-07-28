@@ -1,3 +1,6 @@
+# 0.0.7 (2/28/2015)
+ * update Collaboratory specific group types
+
 # 0.0.6 (6/18/2015)
  * Add Division Group Type
 
