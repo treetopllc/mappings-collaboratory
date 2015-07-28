@@ -37,15 +37,13 @@ exports.event_types = index([
     "Conferences"
 ]);
 
-exports.group_types = index([
-    "Volunteer",
-    "Service Learning",
-    "On-the-Job Training",
-    "Course",
-    "Department",
-    "Unit",
-    "College"
-]);
+exports.group_types = index({
+    3: "Course",
+    4: "Academic Department",
+    5: "Office",
+    6: "Centers/Institutes",
+    7: "Division"
+});
 
 exports.opportunity_types = index({
     "-1": "Offline",
