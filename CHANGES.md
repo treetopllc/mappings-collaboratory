@@ -1,3 +1,6 @@
+# 0.0.8 (2/28/2015)
+ * Change "Citizen" to "Member"
+
 # 0.0.7 (2/28/2015)
  * update Collaboratory specific group types
 
