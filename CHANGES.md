@@ -1,3 +1,6 @@
+# 0.0.9 (8/03/2015)
+ * Add properties to statuses
+
 # 0.0.8 (2/28/2015)
  * Change "Citizen" to "Member"
 
