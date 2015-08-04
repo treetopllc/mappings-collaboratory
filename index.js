@@ -93,12 +93,12 @@ exports.roles = index({
     6: "Follower"
 });
 
-exports.submission_statuses = index([
-    "Unsubmitted",
-    "Approved",
-    "Denied",
-    "Pending"
-]);
+exports.submission_statuses = index({
+    0: "Unsubmitted",
+    1: "Approved",
+    2: "Denied",
+    3: "Pending"
+});
 
 exports.vertex_types = index({
     0: "News",
