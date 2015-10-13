@@ -1,3 +1,6 @@
+# 0.0.10 (10/12/2015)
+ * Update 'Citizen' verbiage to 'Member' on role types
+
 # 0.0.9 (8/03/2015)
  * Add properties to statuses
 
