@@ -89,7 +89,7 @@ exports.roles = index({
     2: "Admin",
     3: "Moderator",
     4: "Contributor",
-    5: "Citizen",
+    5: "Member",
     6: "Follower"
 });
 
