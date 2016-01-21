@@ -1,3 +1,6 @@
+# 0.0.11 (01/21/2016)
+ * Update dependency to use treetopllc fork
+
 # 0.0.10 (10/12/2015)
  * Update 'Citizen' verbiage to 'Member' on role types
 
