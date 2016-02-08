@@ -1,3 +1,6 @@
+# 0.0.12 (02/08/2016)
+ * Update string to prevent constant case from adding underscores between chars
+
 # 0.0.11 (01/21/2016)
  * Update dependency to use treetopllc fork
 
