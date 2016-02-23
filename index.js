@@ -121,7 +121,8 @@ exports.vertex_types = index({
     17: "Goal",
     18: "Invite",
     19: "Proxy",
-    20: "Program"
+    20: "Program",
+    21: "Partnership"
 });
 
 exports.activity_types = index([
