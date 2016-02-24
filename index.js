@@ -114,14 +114,15 @@ exports.vertex_types = index({
     10: "Hours",
     11: "Address",
     12: "Asset",
-    13: "URL",
+    13: "Url",
     14: "Hours Set",
     15: "Email",
     16: "Relationship",
     17: "Goal",
     18: "Invite",
     19: "Proxy",
-    20: "Program"
+    20: "Program",
+    21: "Partnership"
 });
 
 exports.activity_types = index([
