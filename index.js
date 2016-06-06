@@ -10,14 +10,12 @@ exports.edge_types = index({
     5:  "Member",
     6:  "Follower",
     7:  "Like",
-    //8:  "Author",
     9:  "Verifier",
-    10: "Submission",
-    //11: "Hours",
-    12: "Revision",
-    //13: "Location",
-    14: "Email",
-    15: "Partner"
+    15: "Partner",
+    16: "Proxy",
+    17: "Relationship",
+    18: "Transfer Admin",
+    19: "Host"
 });
 
 exports.event_types = index([
