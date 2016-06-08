@@ -1,3 +1,6 @@
+# 0.0.14 (06/16/2016)
+ * Add New Edge Types
+
 # 0.0.13 (02/23/2016)
  * Add Vertex Type ID for Partnership
 
