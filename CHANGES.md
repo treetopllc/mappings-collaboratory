@@ -1,4 +1,7 @@
-# 0.0.14 (06/16/2016)
+# 0.0.15 (06/14/2016)
+ * Add Back in Edge Types to prevent breaking indexes
+
+# 0.0.14 (06/06/2016)
  * Add New Edge Types
 
 # 0.0.13 (02/23/2016)
