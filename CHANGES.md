@@ -1,3 +1,6 @@
+# 0.0.16 (09/27/2016)
+ * Add "Museum" and "Clinic" to group types
+
 # 0.0.15 (06/14/2016)
  * Add Back in Edge Types to prevent breaking indexes
 
