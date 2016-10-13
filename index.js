@@ -168,7 +168,17 @@ exports.asset_types = index({
 exports.relationship_types = index({
     1: "Student",
     2: "Faculty",
-    3: "Staff"
+    3: "Staff",
+    7: "Alumni",
+    8: "Assistant Professor",
+    9: "Associate Professor",
+    10: "Professor",
+    11: "Lecturer",
+    12: "Clinician",
+    13: "Administrative Staff",
+    14: "Adjunct Faculty",
+    15: "Research Staff",
+    16: "Profile Holder"
 });
 
 function index(list) {
