@@ -1,3 +1,6 @@
+# 0.0.17 (10/13/2016)
+ * Update relationship types
+
 # 0.0.16 (09/27/2016)
  * Add "Museum" and "Clinic" to group types
 
