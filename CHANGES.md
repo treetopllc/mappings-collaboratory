@@ -1,3 +1,6 @@
+# 0.0.18 (12/06/2016)
+ * Add staff position types
+
 # 0.0.17 (10/13/2016)
  * Update relationship types
 

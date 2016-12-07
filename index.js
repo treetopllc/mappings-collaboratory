@@ -178,7 +178,10 @@ exports.relationship_types = index({
     13: "Administrative Staff",
     14: "Adjunct Faculty",
     15: "Research Staff",
-    16: "Profile Holder"
+    16: "Profile Holder",
+    17: "Executive Leadership",
+    18: "Center, Office, or Institute Leader",
+    19: "Administrative Program Support"
 });
 
 function index(list) {
