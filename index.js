@@ -169,19 +169,16 @@ exports.relationship_types = index({
     1: "Student",
     2: "Faculty",
     3: "Staff",
-    7: "Alumni",
-    8: "Assistant Professor",
-    9: "Associate Professor",
+    8: "Assistant professor",
+    9: "Associate professor",
     10: "Professor",
-    11: "Lecturer",
+    11: "Other instructional role",
     12: "Clinician",
-    13: "Administrative Staff",
-    14: "Adjunct Faculty",
-    15: "Research Staff",
+    14: "Adjunct instructor",
     16: "Profile Holder",
-    17: "Executive Leadership",
-    18: "Center, Office, or Institute Leader",
-    19: "Administrative Program Support"
+    17: "Executive leadership",
+    18: "Leader of a center, office, or institute",
+    19: "Support for units or programs"
 });
 
 function index(list) {

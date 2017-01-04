@@ -1,3 +1,6 @@
+# 0.0.19 (01/04/2017)
+ * Update faculty/staff position types
+
 # 0.0.18 (12/06/2016)
  * Add staff position types
 
