@@ -43,12 +43,13 @@ exports.event_types = index([
 
 exports.group_types = index({
     3: "Course",
-    4: "Academic Department",
+    4: "Academic Department/Program",
     5: "Office",
-    6: "Centers/Institutes",
+    6: "Center/Institute",
     7: "Division",
     8: "Museum",
-    9: "Clinic"
+    9: "Clinic",
+    10: "Network/Coalition"
 });
 
 exports.opportunity_types = index({
