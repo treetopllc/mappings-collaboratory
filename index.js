@@ -65,14 +65,14 @@ exports.opportunity_types = index({
 
 exports.organization_types = index({
     "-1": "Offline",
-    0: "Community",
-    1: "Education",
-    2: "Business",
-    3: "Non-Profit",
-    4: "Municipal",
-    5: "Civic",
-    6: "Greek",
-    7: "Member"
+    0: "Community Group",
+    1: "Educational Institution",
+    2: "For-profit",
+    3: "For-profit",
+    4: "Government",
+    5: "Social/Civic",
+    6: "Youth Association",
+    7: "Unaffiliated Individual"
 });
 
 exports.activity_types = index([
