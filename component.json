@@ -1,7 +1,7 @@
 {
   "name": "mappings-collaboratory",
   "repository": "treetopllc/mappings-collaboratory",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "dependencies": {
     "component/each": "*",
     "treetopllc/to-constant-case": "master"

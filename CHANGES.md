@@ -1,3 +1,6 @@
+# 0.0.22 (02/21/2017)
+ * Fixing organization typo
+
 # 0.0.21 (02/21/2017)
  * Update organization types
 

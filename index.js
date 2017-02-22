@@ -68,7 +68,7 @@ exports.organization_types = index({
     0: "Community Group",
     1: "Educational Institution",
     2: "For-profit",
-    3: "For-profit",
+    3: "Non-profit",
     4: "Government",
     5: "Social/Civic",
     6: "Youth Association",
