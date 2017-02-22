@@ -1,3 +1,6 @@
+# 0.0.21 (02/21/2017)
+ * Update organization types
+
 # 0.0.20 (01/06/2017)
  * Update unit types
 
