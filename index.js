@@ -182,6 +182,15 @@ exports.relationship_types = index({
     19: "Support for units or programs"
 });
 
+exports.collaborator_types = index({
+    "-1": "None",
+    0: "Community Partner",
+    1: "Institutional Partner",
+    2: "Campus Partner",
+    3: "Faculty/Staff",
+    4: "Course"
+});
+
 function index(list) {
     var by_name = {};
     var by_id = {};
