@@ -1,3 +1,6 @@
+# 0.0.23 (04/18/2017)
+ * Added collaborator types
+
 # 0.0.22 (02/21/2017)
  * Fixing organization typo
 
