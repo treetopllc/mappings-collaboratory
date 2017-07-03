@@ -49,7 +49,8 @@ exports.group_types = index({
     7: "Division",
     8: "Museum",
     9: "Clinic",
-    10: "Network/Coalition"
+    10: "Network/Coalition",
+    11: "Co-Curricular"
 });
 
 exports.opportunity_types = index({
