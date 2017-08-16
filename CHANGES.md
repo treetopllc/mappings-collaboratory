@@ -1,3 +1,6 @@
+# 0.0.25 (08/16/2017)
+ * Added new collaborator type
+
 # 0.0.24 (07/03/2017)
  * Added new group type
 
