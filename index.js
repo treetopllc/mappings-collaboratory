@@ -189,7 +189,8 @@ exports.collaborator_types = index({
     1: "Institutional Partner",
     2: "Campus Partner",
     3: "Faculty/Staff",
-    4: "Course"
+    4: "Course",
+    5: "Program"
 });
 
 function index(list) {
