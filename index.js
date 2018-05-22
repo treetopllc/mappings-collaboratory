@@ -192,6 +192,23 @@ exports.collaborator_types = index({
     4: "Course"
 });
 
+exports.expected_outcomes = index({
+    1: "Funding - Activity (e.g., gifts, grants, contracts",
+    2: "Interdisciplinary opportunity(ies)",
+    3: "Town-Gown relationship(s)",
+    4: "Community participation in campus event(s)",
+    5: "Student - Academic content",
+    6: "Student - Civic knowledge",
+    7: "Student - Enrollment from partner communities",
+    8: "Student - Ethical reasoning and action",
+    9: "Student - Intercultural knowledge",
+    10: "Student - Lifelong learning foundations and skills",
+    11: "Student - Personal growth",
+    12: "Student - Professional growth",
+    13: "Student - Retention",
+    14: "Other"
+});
+
 function index(list) {
     var by_name = {};
     var by_id = {};
